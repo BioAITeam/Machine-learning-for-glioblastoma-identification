@@ -7,7 +7,7 @@ If you use our project for your research or if you find this paper and repositor
 
 ## Folders
 
-- **Data** This folder contain the dataset.
+- **Data** This folder contain the dataset. Unzip the "zip" file when you download or clone the repository to get the dataset.
 - **Notebooks** In this folder, you will find all algorithms and implementations for the dataset. 
 
 ## Requirements
