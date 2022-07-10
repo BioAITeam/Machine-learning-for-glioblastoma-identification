@@ -33,7 +33,7 @@ conda activate GBM
 ```
 Now, install the libraries
 ```
-pip install anaconda keras-gpu
+conda install -c anaconda keras-gpu
 ```
 ```
 pip install yellowbrick
