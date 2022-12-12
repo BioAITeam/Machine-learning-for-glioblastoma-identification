@@ -5,8 +5,6 @@ Artificial Intelligence (AI) is revolutionizing all fields that affect people's 
 
 If you use our project for your research or if you find this paper and repository helpful, please consider citing the work.
 
-Cite the repository: [![DOI](https://zenodo.org/badge/512104422.svg)](https://zenodo.org/badge/latestdoi/512104422)
-
 ## Folders
 
 - **Data** This folder contain the dataset. Unzip the "zip" file when you download or clone the repository to get the dataset.
